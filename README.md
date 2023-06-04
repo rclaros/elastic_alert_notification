@@ -19,4 +19,4 @@ Para enviar a correos y otros servicios de notificación se realizarán mediante
 
 ## Resultado
 
-![alt text](https://github.com/rclaros/elastic_alert_notification/blob/main/images/elastic_mail.png?raw=true)
+![alt text](https://github.com/rclaros/elastic_alert_notification/blob/main/images/elastic_email.png?raw=true)
