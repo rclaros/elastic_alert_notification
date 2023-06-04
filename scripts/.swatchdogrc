@@ -1,0 +1,2 @@
+watchfor /Server log/
+exec /root/scripts/swatchdog-notify.sh '$_'
