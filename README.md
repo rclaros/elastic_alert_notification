@@ -4,6 +4,8 @@ Script para envío de notificaciones a correos y/o mensaje de texto, cuando se p
 ## Problema
 Para el envio notificaciones de las alertas, Elastic Stack requiere Licencia Gold, para poder conectarse y enviar a multiples componentes, la versión community solo soporta la creación de indice y registro en log.
 
+![alt text](https://github.com/rclaros/elastic_alert_notification/blob/main/images/elastic_conectors.png?raw=true)
+
 ## Solucion
 Para enviar a correos y otros servicios de notificación se realizarán mediante script bash en linux, el cual utilizaremos swatch para escuchar los eventos de las alertas y tomar esa linea, parsear y enviar por correo y numero de teléfono, ademas que podemos enviar a otros servicios segun nuestra imaginación.
 
@@ -14,3 +16,7 @@ Para enviar a correos y otros servicios de notificación se realizarán mediante
 
 ## Nomenclatura de monitors
 - name: (Name of monitor xx)
+
+## Resultado
+
+![alt text](https://github.com/rclaros/elastic_alert_notification/blob/main/images/elastic_mail.png?raw=true)
