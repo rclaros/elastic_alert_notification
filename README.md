@@ -12,5 +12,5 @@ Para enviar a correos y otros servicios de notificación se realizarán mediante
 - apt-get install jq
 - apt-get install mailutils
 
-## Nomenclatura de los nombre de monitors
+## Nomenclatura de monitors
 - name: (Name of monitor xx)
